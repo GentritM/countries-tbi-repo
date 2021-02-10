@@ -10,6 +10,10 @@
 #Note
 
 ~ For every country imported, write a note  
-	UK DONE
-
+	UK DONE  
+	GERMANY DONE  
+	FRANCE DONE  
+	SPAIN DONE  
+	SWEDEN DONE  
+	
 
