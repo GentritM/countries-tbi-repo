@@ -9,6 +9,7 @@
 ~ go to https://erudera.com/admin/universities_import/ and paste the link copied
 
 # NOTE: FOR EVERY FILE YOU IMPORT, AFTER THE IMPORT FINISHES, CHECK IT AND PLEASE REMOVE IT FROM THE GITHUB REPO
+# DO NOT IMPORT ANY OTHER FILES FROM OTHER DIRECTORIES EXCEPT THE part directory
 
 	
 
